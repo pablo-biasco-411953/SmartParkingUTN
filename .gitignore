@@ -1,0 +1,44 @@
+# Carpetas de compilación de Java (Backend)
+**/target/
+**/build/
+
+# Archivos sueltos de Maven
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
+
+### Frontend (Node / React / Next.js) ###
+**/node_modules/
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+**/dist/
+**/.next/
+**/.out/
+
+### Docker y Bases de Datos Locales ###
+.docker/
+*.log
+*.db
+**/data/
+cassandra-data/
+neo4j-data/
+
+### VS Code y otros IDEs ###
+.vscode/
+.idea/
+*.iws
+*.iml
+*.ipr
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/

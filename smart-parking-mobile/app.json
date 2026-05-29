@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Smart Parking UTN",
+    "slug": "smart-parking-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Smart Parking usa tu ubicacion para validar si estas dentro del campus UTN y sugerir el sector mas cercano."
+      }
+    },
+    "android": {
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION"],
+      "adaptiveIcon": {
+        "backgroundColor": "#020814",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
