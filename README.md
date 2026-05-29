@@ -91,11 +91,8 @@ docker compose down
 
 Este proyecto fue desarrollado de forma colaborativa como parte del desarrollo integrador de la cátedra de Ingeniería en Sistemas de Información.
 
-Queremos expresar nuestro agradecimiento especial a los compañeros de equipo que hicieron posible el diseño, desarrollo y pruebas de este sistema inteligente:
 
-*   **Pablo Biasco** (`pablo-biasco-411953`) - *Líder de Infraestructura y Automatización, Dockerización, Integración de Servicios locales y Ajustes del Frontend.*
-*   **Nahuel Gatica** ([Nahuel Gatica](https://github.com/421310-1W3-GATICA-NAHUEL)) - *Desarrollo del Backend, Modelado de Datos y lógica del negocio.*
-*   **Integrantes del Grupo 1W3** - *Colaboración en testing, arquitectura inicial e implementación de lógica móvil.*
+**Integrantes del Grupo 1W3** - *Colaboración en testing, arquitectura inicial e implementación de lógica móvil.*
 
 ---
 
