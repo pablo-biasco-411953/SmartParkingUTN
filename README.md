@@ -89,10 +89,12 @@ docker compose down
 
 ## 🤝 Créditos y Colaboradores
 
-Este proyecto fue desarrollado de forma colaborativa como parte del desarrollo integrador de la cátedra de Ingeniería en Sistemas de Información.
 
-
-**Integrantes del Grupo 1W3** - *Colaboración en testing, arquitectura inicial e implementación de lógica móvil.*
+**Integrantes del Grupo 1W3** 
+Nahuel Gatica
+Benjamin Polzoni
+Franco Alberione
+Thiago Cáseres
 
 ---
 
